@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MessageApp</string>
+    <string name="str_label_btn_send">send</string>
+    <string name="str_menu_search_devices">Search for devices</string>
+    <string name="str_menu_bluetooth_on">Enable bluetooth</string>
+
+    <string name ="str_paired_devices">Paired Devices</string>
+    <string name ="str_available_devices">Available Devices</string>
+</resources>
