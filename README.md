@@ -1,5 +1,5 @@
 # Overview
-The JMS Server and bluetooth work independently from eachother which unfortunately resulted in a low grade, however, I spent many hours on this so I decided to include it in my Github anyway.
+The JMS Server and bluetooth work independently from eachother which unfortunately resulted in an average grade, however, I spent many hours on this so I decided to include it in my Github anyway.
 
 Android Studio: MessagingApp                             
 Netbeans 8.2 & Glassfish 5: MessagingService                 
